@@ -3,7 +3,7 @@ import React from "react";
 const SignIn = () => {
   return (
     <>
-      <section className="bg-[#E2E6E7] text-gray-800 font-lato pt-8 flex md:flex-wrap w-full">
+      <section className="bg-[#E2E6E7] text-gray-800 pt-8 flex md:flex-wrap w-full font-lato">
         <div className="bg-white w-full py-8">
           <div className="border border-[#EFEEEF] h-full flex flex-col items-center justify-center rounded-md px-12">
             <p className="mt-12 text-[13px] text-black font-medium">

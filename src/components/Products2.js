@@ -8,7 +8,7 @@ import Box from "../assets/imgs/box.jpg";
 
 const Products2 = () => {
   return (
-    <div className="bg-[#E2E6E7] p-4 ">
+    <div className="bg-[#E2E6E7] p-4  font-lato">
       <div className="bg-white">
         <div className="flex items-center p-4">
           <p className="text-[#0F11111] text-[21px] font-semibold pr-4">

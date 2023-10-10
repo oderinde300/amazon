@@ -6,6 +6,7 @@ import Products2 from "./components/Products2";
 import Products3 from "./components/Products3";
 import SignIn from "./components/SignIn";
 import Footer from "./components/Footer";
+import Product6 from "./components/Product6";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Book />
       <Book />
       <Products3 />
+      {/* <Product6 /> */}
       <Products2 />
       <SignIn />
       <Footer />

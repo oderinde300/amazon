@@ -4,7 +4,7 @@ import Amazon from "../assets/imgs/ama.png";
 const Footer = () => {
   return (
     <>
-      <section className="w-full bg-[#222E3E] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44">
+      <section className="w-full bg-[#222E3E] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44 font-lato">
         <ul>
           <li className="text-[16px] pb-[14px] font-semibold">
             Get to Know Us
@@ -89,7 +89,7 @@ const Footer = () => {
         </ul>
       </section>
       <img src={Amazon} alt="amazon" />
-      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44">
+      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44 font-lato">
         <ul>
           <li className="text-[12px] text-[#DDDDDD] hover:underline">
             Amazon Music
@@ -147,7 +147,7 @@ const Footer = () => {
           </li>
         </ul>
       </section>
-      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44">
+      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44 font-lato">
         <ul>
           <li className="text-[12px] text-[#DDDDDD] hover:underline">
             AmazonGlobal
@@ -206,7 +206,7 @@ const Footer = () => {
           </li>
         </ul>
       </section>
-      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44">
+      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44 font-lato">
         <ul>
           <li className="text-[12px] text-[#DDDDDD] hover:underline">IMDb</li>
           <li className="text-[12px] text-[#999999] hover:underline">
@@ -250,7 +250,7 @@ const Footer = () => {
           </li>
         </ul>
       </section>
-      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44">
+      <section className="w-full bg-[black] py-8 text-white flex flex-col  md:flex-row justify-between md:items-start px-4 lg:px-32 xl:px-44 font-lato">
         <ul>
           <li className="text-[12px] text-[#DDDDDD] hover:underline">
             Amazon Music
@@ -308,7 +308,7 @@ const Footer = () => {
           </li>
         </ul>
       </section>
-      <section className="bg-black flex justify-center items-center text-white flex-col py-8 text-[12px]">
+      <section className="bg-black flex justify-center items-center text-white flex-col py-8 text-[12px] font-lato">
         <div className="flex justify-center items-center">
           <p> Conditions of Use </p>
           <p>Privacy Notice </p>
